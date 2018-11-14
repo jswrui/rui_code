@@ -28,7 +28,5 @@ ll -h
 history
 ```
 资源下载
-```bash
-*[bootstrap-table](https://cdnjs.com/libraries/bootstrap-table)
-*[jquery](https://cdnjs.cloudflare.com/ajax/libs/jquery)
-```
+* [bootstrap-table](https://cdnjs.com/libraries/bootstrap-table)
+* [jquery](https://cdnjs.cloudflare.com/ajax/libs/jquery)
